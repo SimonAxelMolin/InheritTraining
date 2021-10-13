@@ -1,0 +1,6 @@
+C:\Users\simon.molin1\source\repos\FarligPerson\bin\Debug\FarligPerson.exe
+C:\Users\simon.molin1\source\repos\FarligPerson\bin\Debug\FarligPerson.pdb
+C:\Users\simon.molin1\source\repos\FarligPerson\obj\Debug\FarligPerson.csproj.AssemblyReference.cache
+C:\Users\simon.molin1\source\repos\FarligPerson\obj\Debug\FarligPerson.csproj.CoreCompileInputs.cache
+C:\Users\simon.molin1\source\repos\FarligPerson\obj\Debug\FarligPerson.exe
+C:\Users\simon.molin1\source\repos\FarligPerson\obj\Debug\FarligPerson.pdb
